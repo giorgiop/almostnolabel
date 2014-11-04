@@ -5,7 +5,7 @@ library(data.table)
 library(digest)
 library(pROC)
 
-current_path = "/Users/giorgio/Google Drive/Laplacian Mean Map/public_github/"
+current_path = "paht/to/files"
 source(file=paste(current_path,"auc.R", sep=""))
 source(file=paste(current_path,"mean.map.R", sep=""))
 source(file=paste(current_path,"laplacian.mean.map.R", sep=""))

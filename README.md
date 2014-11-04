@@ -9,3 +9,4 @@ Email: giorgio.patrini@nicta.com.au
 This self-contained R package implements MM, LMM, AMM^min, and AMM^max all (except MM) parametrised with the similarity functions G, G,s and NC. See the paper for more details.
 
 The dataset for LLP demo.heart.Rd is obtained by the UCI's heart. A demo of our algorithms is included in demo.R
+In the demo, change the current_path variable with the folder containgin this package.
